@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Fondo - Burdeos/granate vintage -->
+  <rect width="512" height="512" rx="100" fill="#4a1c2e"/>
+  
+  <!-- Cuerpo con chaleco y camisa -->
+  <ellipse cx="256" cy="480" rx="130" ry="70" fill="#d4a056"/>
+  <!-- Chaleco -->
+  <path d="M190 410 L200 500 L312 500 L322 410 Q256 390 190 410 Z" fill="#2c3e50"/>
+  <!-- Camisa blanca visible -->
+  <path d="M230 410 L240 500 L272 500 L282 410 Q256 400 230 410 Z" fill="#ecf0f1"/>
+  
+  <!-- Cabeza -->
+  <ellipse cx="256" cy="260" rx="82" ry="92" fill="#fad7a0"/>
+  
+  <!-- Orejas -->
+  <ellipse cx="174" cy="265" rx="14" ry="20" fill="#fad7a0"/>
+  <ellipse cx="338" cy="265" rx="14" ry="20" fill="#fad7a0"/>
+  
+  <!-- Gorra newsboy - Mostaza -->
+  <ellipse cx="256" cy="175" rx="92" ry="55" fill="#d4a056"/>
+  <path d="M164 175 Q170 125 256 115 Q342 125 348 175 Q346 195 256 205 Q166 195 164 175 Z" fill="#b8860b"/>
+  <circle cx="256" cy="120" r="7" fill="#996515"/>
+  <path d="M165 188 Q125 195 120 215 Q128 232 185 222 Q178 205 165 188 Z" fill="#b8860b"/>
+  <ellipse cx="256" cy="195" rx="95" ry="16" fill="#d4a056"/>
+  
+  <!-- Pelo negro -->
+  <path d="M178 205 Q182 222 175 232" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M190 210 Q192 225 187 235" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round"/>
+  
+  <!-- Cejas -->
+  <path d="M198 235 Q218 227 238 233" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M274 233 Q294 227 314 235" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round"/>
+  
+  <!-- Ojos guiñando uno -->
+  <ellipse cx="218" cy="260" rx="16" ry="20" fill="white"/>
+  <circle cx="222" cy="262" r="9" fill="#4a1c2e"/>
+  <circle cx="224" cy="259" r="3" fill="white"/>
+  <!-- Ojo guiñado -->
+  <path d="M278 260 Q294 252 310 260" stroke="#1a1a1a" stroke-width="4" fill="none" stroke-linecap="round"/>
+  
+  <!-- Nariz -->
+  <ellipse cx="256" cy="295" rx="10" ry="12" fill="#f0c987"/>
+  
+  <!-- Mejillas -->
+  <ellipse cx="192" cy="305" rx="15" ry="10" fill="#c0392b" opacity="0.35"/>
+  <ellipse cx="320" cy="305" rx="15" ry="10" fill="#c0392b" opacity="0.35"/>
+  
+  <!-- Sonrisa de lado -->
+  <path d="M225 330 Q270 358 300 325" stroke="#5d4037" stroke-width="5" fill="none" stroke-linecap="round"/>
+  
+  <!-- Brazo -->
+  <path d="M380 450 Q410 380 430 300 Q445 230 455 165" stroke="#fad7a0" stroke-width="28" fill="none" stroke-linecap="round"/>
+  <!-- Manga chaleco -->
+  <path d="M375 440 Q395 400 410 350" stroke="#d4a056" stroke-width="34" fill="none" stroke-linecap="round"/>
+  
+  <!-- Mano -->
+  <circle cx="457" cy="160" r="22" fill="#fad7a0"/>
+  <circle cx="472" cy="148" r="9" fill="#fad7a0"/>
+  <circle cx="468" cy="172" r="8" fill="#fad7a0"/>
+  
+  <!-- Periódico -->
+  <g transform="translate(350, 50) rotate(22)">
+    <rect x="0" y="0" width="85" height="60" rx="2" fill="#fafafa"/>
+    <rect x="6" y="6" width="73" height="9" rx="1" fill="#4a1c2e"/>
+    <rect x="6" y="20" width="48" height="3.5" fill="#7f8c8d"/>
+    <rect x="6" y="27" width="55" height="3.5" fill="#7f8c8d"/>
+    <rect x="6" y="34" width="40" height="3.5" fill="#7f8c8d"/>
+    <rect x="6" y="41" width="52" height="3.5" fill="#7f8c8d"/>
+    <rect x="58" y="20" width="20" height="25" fill="#bdc3c7"/>
+  </g>
+  
+  <!-- Líneas de movimiento -->
+  <g stroke="#d4a056" stroke-width="3" stroke-linecap="round" opacity="0.6">
+    <path d="M465 75 L485 65"/>
+    <path d="M472 98 L492 95"/>
+    <path d="M468 120 L488 125"/>
+  </g>
+</svg>
